@@ -161,13 +161,13 @@ function afficherDansPage(aAfficher){
 
 let phraseAafficher = compteFruits (tableauFruits)
 afficherDansPage(phraseAafficher)
-
+*/
 
 //EXERCICE 5
 //role: Écrire un script qui permet de chiffrer un mot en prenant chacune des lettres et en la remplaçant par celle qui suit dans l’alphabet. 
 //para: phrase
 //retour: afficher
-
+/*
 function scripter(mot) {
     let resultat = "";
     for (let i = 0; i < mot.length; i++) {
@@ -216,6 +216,10 @@ function comparerEmoji (resultat){
         return "perdu"
     }
 }
+
+//pour tirer mon emoji et afficher 
 let tirage = emojiAleatoire(emoji);
-console.log(tirage);          
+console.log(tirage);
+//afficher le résultat "jackpot"     
 console.log(comparerEmoji(tirage));   
+
