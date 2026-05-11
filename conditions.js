@@ -140,7 +140,7 @@ console.log(appreciation(moyenneG));
 
 console.log(bulletin())*/
 
-function afficherbulletin(appreciation,moyenneG){
+/*function afficherbulletin(appreciation,moyenneG){
     alert(`La moyenne de l'élève est ! ${moyenneGenerale}`)
 }
 
@@ -150,4 +150,4 @@ function scenario (a,b,c,d){
     afficherBulletin(commentaire,bulletin)
 }
 
-scenario(9,8,7,3)
+scenario(9,8,7,3)*/
