@@ -1,5 +1,5 @@
 
-let promo11 = [
+/*let promo11 = [
 
     {
         prenom: "alexis",
@@ -32,7 +32,7 @@ let promo11 = [
  * @param {*} tableauPromo11 
  * return : rien car elle affiche
  */
-function ficheEleveDansDOM(tableauPromo11) {
+/*function ficheEleveDansDOM(tableauPromo11) {
 
     //prendre les eleves un par un 
     tableauPromo11.forEach(eleve => {
@@ -60,5 +60,5 @@ function ajouterAuBody(trucAafficher) {
 
 }
 
-ficheEleveDansDOM(promo11)
+ficheEleveDansDOM(promo11)*/
  
